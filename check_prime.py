@@ -9,6 +9,6 @@ def is_prime(num):
     return True
 
 
-for i in range(2, 1000000):
+for i in range(2, 1000):
     if is_prime(i):
         print(i, end=", ")
