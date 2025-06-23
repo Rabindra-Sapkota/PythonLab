@@ -1,0 +1,25 @@
+{
+    "test@gmail": {
+        "name": "test",
+        "exercises": {
+            "Basic": false,
+            "String": false,
+            "Input Output": false,
+            "Formatting": false,
+            "Conditional": false,
+            "List": false,
+            "Data Structure": false,
+            "Set": false,
+            "Dictionary": false,
+            "Loop": false,
+            "Function": false,
+            "File Handling": false,
+            "Exception": false,
+            "OOP": false,
+            "Library": false,
+            "Database": false,
+            "Samachar Sangraha": false,
+            "Progress Tracker": false
+        }
+    }
+}
