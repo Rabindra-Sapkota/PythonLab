@@ -14,7 +14,7 @@ student_info = {
 mail_content = """
 Hello {name},
 
-I am sending mail from Python
+I am sending mail from Python with git in place
 
 Thanks
 """
