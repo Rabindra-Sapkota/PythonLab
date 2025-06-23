@@ -10,7 +10,7 @@ conn = psycopg2.connect(
     port="5432",
 )
 
-#### Write Data  ###
+#### Write Data  ##
 data = [("Alice", "alice@example.com"), ("Bob", "bob@example.com")]
 
 cur = conn.cursor()
